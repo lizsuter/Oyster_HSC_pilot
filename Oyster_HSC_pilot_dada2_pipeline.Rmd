@@ -18,6 +18,7 @@ library(dada2)
 library(DECIPHER)
 ```
 
+## Upload fastq files and trim primers
 
 ### Get sample names- run in Terminal
 ```{bash}
@@ -86,7 +87,7 @@ paste ../samples <(grep "passing" ../trimmed_fastq/cutadapt_primer_trimming_stat
 Retained ~99.9-100% mostly because I didn't use ```discard-untrimmed``` option.
 
 
-# DADA2- back to R console
+## DADA2 pipeline
 
 Take a look at the trimmed reads.
 
@@ -306,4 +307,7 @@ Backup
 ```{r}
 save.image(file = "backups/final.RData")
 ```
+
+
+## Plotting Abundances
 
