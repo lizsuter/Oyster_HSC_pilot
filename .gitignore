@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+backups/
+dada2_results/
+filtered_fastq/
+Raw_data/
+trimmed_fastq/
+SILVA_SSU_r138_2019.RData
+
