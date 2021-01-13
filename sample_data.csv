@@ -1,41 +1,41 @@
-﻿seq_ID,student_name,students_ID,host_animal,tissue_type,Date,Temperature,Timepoint
-A1,Hailey,D,oyster,whole_tissue,,,
-B1,Hailey,D,oyster,whole_tissue,,,
-C1,Hailey,E,oyster,whole_tissue,,,
-D1,Hailey,E,oyster,whole_tissue,,,
-E1,Hailey,G,oyster,whole_tissue,,,
-F1,Hailey,G,oyster,whole_tissue,,,
-G1,Hailey,I,oyster,whole_tissue,,,
-H1,Hailey,I,oyster,whole_tissue,,,
-A2,Hailey,K,oyster,whole_tissue,,,
-B2,Hailey,K,oyster,whole_tissue,,,
-C2,Hailey,N,oyster,whole_tissue,,,
-D2,Hailey,N,oyster,whole_tissue,,,
-E2,Hailey,P,oyster,whole_tissue,,,
-F2,Hailey,P,oyster,whole_tissue,,,
-G2,Hailey,R,oyster,whole_tissue,,,
-H2,Hailey,R,oyster,whole_tissue,,,
-A3,Tom,10.13_4,HSC,gill_biofilm,20201013,,
-B3,Tom,10.13_4,HSC,gill_biofilm,20201013,,
-C3,Tom,10.13_5,HSC,gill_biofilm,20201013,,
-D3,Tom,10.13_5,HSC,gill_biofilm,20201013,,
-E3,Tom,10.15_1,HSC,gill_biofilm,20201015,,
-F3,Tom,10.15_1,HSC,gill_biofilm,20201015,,
-G3,Tom,10.15_4,HSC,gill_biofilm,20201015,,
-H3,Tom,10.15_4,HSC,gill_biofilm,20201015,,
-A4,Tom,10.15_5,HSC,gill_biofilm,20201015,,
-B4,Tom,10.15_5,HSC,gill_biofilm,20201015,,
-C4,Tom,10.17_1,HSC,gill_biofilm,20201017,,
-D4,Tom,10.17_1,HSC,gill_biofilm,20201017,,
-E4,Tom,10.17_4,HSC,gill_biofilm,20201017,,
-F4,Tom,10.17_4,HSC,gill_biofilm,20201017,,
-G4,Tom,10.17_5,HSC,gill_biofilm,20201017,,
-H4,Tom,10.17_5,HSC,gill_biofilm,20201017,,
-A5,Tom,10.19_4,HSC,gill_biofilm,20201019,,
-B5,Tom,10.19_4,HSC,gill_biofilm,20201019,,
-C5,Tom,10.19_5-2,HSC,gill_biofilm,20201019,,
-D5,Tom,10.19_5-2,HSC,gill_biofilm,20201019,,
-E5,Tom,10.21_1,HSC,gill_biofilm,20201021,,
-F5,Tom,10.21_1,HSC,gill_biofilm,20201021,,
-G5,Tom,10.21_4-2,HSC,gill_biofilm,20201021,,
-H5,Tom,10.21_4-2,HSC,gill_biofilm,20201021,,
+﻿seq_ID,student_name,students_ID,host_animal,tissue_type,Date,Experimental_tank,Temperature,Timepoint,Ammonia_mg_L,Nitrite_mg_L,Nitrate_mg_L,pH,Salinity_sg,Mortality,Oyster_len_cm,Oyster_wid_cm
+A1,Hailey,D,oyster,whole_tissue,20200928,control,21.7,3,0,0,NA,8,1.017,live,6.67,4.45
+B1,Hailey,D,oyster,whole_tissue,20200928,control,21.7,3,0,0,NA,8,1.017,live,6.67,4.45
+C1,Hailey,E,oyster,whole_tissue,20200928,hot,21.7,3,0,0,NA,8,1.017,live,7.94,7.94
+D1,Hailey,E,oyster,whole_tissue,20200928,hot,21.7,3,0,0,NA,8,1.017,live,7.94,7.94
+E1,Hailey,G,oyster,whole_tissue,20200930,control,22,5,0,0,NA,8.4,1.017,live,4.8,4.4
+F1,Hailey,G,oyster,whole_tissue,20200930,control,22,5,0,0,NA,8.4,1.017,live,4.8,4.4
+G1,Hailey,I,oyster,whole_tissue,20200930,hot,22,5,0,0,NA,7.7,1.018,live,5.6,4
+H1,Hailey,I,oyster,whole_tissue,20200930,hot,22,5,0,0,NA,7.7,1.018,live,5.6,4
+A2,Hailey,K,oyster,whole_tissue,20200102,control,22,7,0,0,NA,8.2,1.016,live,6.6,5.5
+B2,Hailey,K,oyster,whole_tissue,20200102,control,22,7,0,0,NA,8.2,1.016,live,6.6,5.5
+C2,Hailey,N,oyster,whole_tissue,20200102,hot,26,7,0,0,NA,8,1.016,live,7,4.5
+D2,Hailey,N,oyster,whole_tissue,20200102,hot,26,7,0,0,NA,8,1.016,live,7,4.5
+E2,Hailey,P,oyster,whole_tissue,20201005,control,23,10,0,0,NA,8.2,1.017,live,6.1,4.4
+F2,Hailey,P,oyster,whole_tissue,20201005,control,23,10,0,0,NA,8.2,1.017,live,6.1,4.4
+G2,Hailey,R,oyster,whole_tissue,20201005,hot,27,10,0,0,NA,8.4,1.018,live,6.8,4.6
+H2,Hailey,R,oyster,whole_tissue,20201005,hot,27,10,0,0,NA,8.4,1.018,live,6.8,4.6
+A3,Tom,10.13_4,HSC,gill_biofilm,20201013,control ,22,0,0,0,20,8.4,1.018,live,NA,NA
+B3,Tom,10.13_4,HSC,gill_biofilm,20201013,control ,22,0,0,0,20,8.4,1.018,live,NA,NA
+C3,Tom,10.13_5,HSC,gill_biofilm,20201013,control ,22,0,0,0,20,8.4,1.018,live,NA,NA
+D3,Tom,10.13_5,HSC,gill_biofilm,20201013,control ,22,0,0,0,20,8.4,1.018,live,NA,NA
+E3,Tom,10.15_1,HSC,gill_biofilm,20201015,hot,26,2,0.5,0,20,7.4,1.017,live,NA,NA
+F3,Tom,10.15_1,HSC,gill_biofilm,20201015,hot,26,2,0.5,0,20,7.4,1.017,live,NA,NA
+G3,Tom,10.15_4,HSC,gill_biofilm,20201015,control ,20,2,0.5,0,20,7.4,1.016,live,NA,NA
+H3,Tom,10.15_4,HSC,gill_biofilm,20201015,control ,20,2,0.5,0,20,7.4,1.016,live,NA,NA
+A4,Tom,10.15_5,HSC,gill_biofilm,20201015,control ,20,2,0.5,0,20,7.4,1.016,live,NA,NA
+B4,Tom,10.15_5,HSC,gill_biofilm,20201015,control ,20,2,0.5,0,20,7.4,1.016,live,NA,NA
+C4,Tom,10.17_1,HSC,gill_biofilm,20201017,hot,26,4,2,0,20,7.8,1.018,live,NA,NA
+D4,Tom,10.17_1,HSC,gill_biofilm,20201017,hot,26,4,2,0,20,7.8,1.018,live,NA,NA
+E4,Tom,10.17_4,HSC,gill_biofilm,20201017,control ,21,4,2,0.25,0,7.8,1.016,live,NA,NA
+F4,Tom,10.17_4,HSC,gill_biofilm,20201017,control ,21,4,2,0.25,0,7.8,1.016,live,NA,NA
+G4,Tom,10.17_5,HSC,gill_biofilm,20201017,control ,21,4,2,0.25,0,7.8,1.016,live,NA,NA
+H4,Tom,10.17_5,HSC,gill_biofilm,20201017,control ,21,4,2,0.25,0,7.8,1.016,live,NA,NA
+A5,Tom,10.19_4,HSC,gill_biofilm,20201019,control ,21,6,2,1,10,7.4,1.017,live,NA,NA
+B5,Tom,10.19_4,HSC,gill_biofilm,20201019,control ,21,6,2,1,10,7.4,1.017,live,NA,NA
+C5,Tom,10.19_5-2,HSC,gill_biofilm,20201019,control ,21,6,2,1,10,7.4,1.017,dead,NA,NA
+D5,Tom,10.19_5-2,HSC,gill_biofilm,20201019,control ,21,6,2,1,1,7.4,1.017,dead,NA,NA
+E5,Tom,10.21_1,HSC,gill_biofilm,20201021,hot,26,8,2,1,40,7.4,1.017,live,NA,NA
+F5,Tom,10.21_1,HSC,gill_biofilm,20201021,hot,26,8,2,1,40,7.4,1.017,live,NA,NA
+G5,Tom,10.21_4-2,HSC,gill_biofilm,20201021,control ,22,8,2,2,20,7.8,1.014,live,NA,NA
+H5,Tom,10.21_4-2,HSC,gill_biofilm,20201021,control ,22,8,2,2,20,7.8,1.014,live,NA,NA

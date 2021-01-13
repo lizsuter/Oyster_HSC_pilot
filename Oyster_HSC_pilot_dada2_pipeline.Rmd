@@ -309,5 +309,4 @@ save.image(file = "backups/final.RData")
 ```
 
 
-## Plotting Abundances
 
