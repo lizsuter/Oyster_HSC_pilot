@@ -2,8 +2,10 @@
 title: "Oyster Horseshoe Crab Pilot Project from ENV4800"
 author: "Liz Suter"
 date: "Jan 13 2020"
-output: html_notebook
-editor_options: 
+output:
+  html_document:
+    df_print: paged
+editor_options:
   chunk_output_type: inline
 ---
 <br>
