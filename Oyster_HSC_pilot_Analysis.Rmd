@@ -503,7 +503,7 @@ ggplot(lograt_variances, aes(x = as.numeric(PCaxis), y = PercVar)) +
 A faithful representation is to plot this ordination in 2D because the 3rd and 4th axes explain very low % of variances, while the 1st and 2nd explain a decently large proportion of variance (38.7 + 16.4 = 55.1%)
 
 Visualize the PCA- 
-##CONTINUE HERE JAN. 13
+##CONTINUE HERE, as of JAN. 13
 ```{r}
 # lograt_pca$x #View PC values
 pca_lograt_frame <- data.frame(lograt_pca$x) %>% 

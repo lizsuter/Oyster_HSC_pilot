@@ -1,8 +1,8 @@
 ﻿seq_ID,student_name,students_ID,host_animal,tissue_type,Date,Experimental_tank,Temperature,Timepoint,Ammonia_mg_L,Nitrite_mg_L,Nitrate_mg_L,pH,Salinity_sg,Mortality,Oyster_len_cm,Oyster_wid_cm
 A1,Hailey,D,oyster,whole_tissue,20200928,control,21.7,3,0,0,NA,8,1.017,live,6.67,4.45
 B1,Hailey,D,oyster,whole_tissue,20200928,control,21.7,3,0,0,NA,8,1.017,live,6.67,4.45
-C1,Hailey,E,oyster,whole_tissue,20200928,hot,21.7,3,0,0,NA,8,1.017,live,7.94,7.94
-D1,Hailey,E,oyster,whole_tissue,20200928,hot,21.7,3,0,0,NA,8,1.017,live,7.94,7.94
+C1,Hailey,E,oyster,whole_tissue,20200928,hot,21.7,3,0,0,NA,8,1.017,live,7.94,5.8
+D1,Hailey,E,oyster,whole_tissue,20200928,hot,21.7,3,0,0,NA,8,1.017,live,7.94,5.8
 E1,Hailey,G,oyster,whole_tissue,20200930,control,22,5,0,0,NA,8.4,1.017,live,4.8,4.4
 F1,Hailey,G,oyster,whole_tissue,20200930,control,22,5,0,0,NA,8.4,1.017,live,4.8,4.4
 G1,Hailey,I,oyster,whole_tissue,20200930,hot,22,5,0,0,NA,7.7,1.018,live,5.6,4
